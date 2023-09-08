@@ -3,3 +3,4 @@ requests==2.26.0
 scikit-learn==0.24.2  # Assuming scikit-learn is used in your model
 numpy==1.21.2          # Assuming NumPy is used in your model
 Flask-Bootstrap==3.3.7.1
+gunicorn
